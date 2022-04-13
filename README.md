@@ -1,7 +1,5 @@
 # WannaCry BugSwarm
-#### A collection of cute but deadly viruses.
-
-#### Based on the worst pest disasters in history.
+#### A collection of cute but deadly viruses based on the worst pest disasters in history.
 
 
 **They will instantly snatch control from you. Then will sicken your high-end PC by overflowing the RAM & overwhelming the processor. And you will see your computer groaning till it crashes. Believe me, viruses were never so lovely before.**
