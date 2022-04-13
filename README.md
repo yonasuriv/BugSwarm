@@ -32,7 +32,7 @@ Code | Intro
 --- | --- 
 [cpu_eater.bat](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/cpu_eater.bat) | This batch program recursively executes itself forever and takes up full CPU usage.
 [zip_bomb_42.zip](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/zip_bomb_42.zip) | 4.5 petabytes of data compressed into 42 kilobytes. Trying to uncompress may prove fatal.
-[folder_flooder.bat](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/folder_flooder.bat) | Creates a lot of folders on the disk.
+[folder_flooder.bat](https://github.com/yonasuriv/wannacry-bugswarm/blob/master/folder_flooder.bat) | Creates a lot of folders on the disk.
 
 
 **Note**: I have personally tested all of the programs on my laptop; no permanent damage was caused by any of them. But I cannot guarantee your safety. So **run them on your own risk**. 
