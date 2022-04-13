@@ -1,5 +1,5 @@
-# CuteVirusCollection
-#### A Collection of Cute But Deadly Viruses
+# WannaCry BugSwarm
+#### A collection of cute but deadly viruses.
 
 **They will instantly snatch control from you. Then will sicken your high-end PC by overflowing the RAM & overwhelming the processor. And you will see your computer groaning till it crashes. Believe me, viruses were never so lovely before.**
 
@@ -7,7 +7,7 @@ Computer is a very complex machine. You just have to break one support to crash 
 
 ## Disaster Level
 
-### Level-1: Wolf
+### Level-1: Moth
 Code | Intro
 --- | --- 
 [prank_master.vbs](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/prank_master.vbs) | Shows an unending sequence of annoying messages.
@@ -15,7 +15,7 @@ Code | Intro
 [chaos_devil.c](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/chaos_devil.c) | Randomly moves the window round. Only Ctrl+Alt+Del will work here.
 [dark_screen.c](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/dark_screen.c) | Simply shuts the system down.
 
-### Level-2: Tiger
+### Level-2: Mosquito
 Code | Intro
 --- | --- 
 [memory_crash.html](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/memory_crash.html) | Creates a super big string and overwhelms the RAM.
@@ -26,7 +26,7 @@ Code | Intro
 [fork_bomb.sh](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/fork_bomb.sh) | Creates an infinite number of processes.
 [ram_slayer.c](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/ram_slayer.c) | Consumes full space of the RAM.
 
-### Level-3: Demon
+### Level-3: Locust
 Code | Intro
 --- | --- 
 [cpu_eater.bat](https://github.com/MinhasKamal/CuteVirusCollection/blob/master/cpu_eater.bat) | This batch program recursively executes itself forever and takes up full CPU usage.
